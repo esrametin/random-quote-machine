@@ -5,5 +5,5 @@ Uses mashape-random quote api
 ### to-do ###
 
 - ~~fix animate background color when clicked on new quote~~
-- put an hr to upper side of footer
+- put an hr to upper side of the footer
 - fix buttons' positions on zoom-in/out
